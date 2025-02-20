@@ -1,0 +1,1 @@
+This repository demonstrates a common but difficult-to-diagnose error in Expo CLI projects. The problem stems from incompatibilities between installed libraries and the current Expo SDK version.  The `bug.js` file shows example code that might trigger the error, while `bugSolution.js` provides solutions and best practices.
