@@ -1,0 +1,1 @@
+This error occurs when you try to run an Expo project that uses a library or dependency which is not compatible with the current Expo SDK version or with the project's configuration.  The error message itself might not always be clear about the exact incompatibility, leading to debugging challenges.
